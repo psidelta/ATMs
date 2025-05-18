@@ -24,7 +24,7 @@ namespace FinaATM
         {
             CsvFileDescription outputFileDescription = new CsvFileDescription
             {
-                SeparatorChar = ',', // tab delimited
+                SeparatorChar = ';', // tab delimited
                 FirstLineHasColumnNames = true, // no column names in first record
                 FileCultureName = "hr-HR" // use formats used in Croatia
             };
