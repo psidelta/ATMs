@@ -1,0 +1,2 @@
+﻿IdFrom;	IdTo;	AddressFrom;	CityFrom;	PostalCodeFrom;	GoogleAddressFrom;	AddressTo;	CityTo;	PostalCodeTo;	GoogleAddressTo;	Distance
+1;	157;	VLA KA 26;	ZAGREB;	10000;	"Vla ka ul. 26;	 10000;	 Zagreb;	 Croatia";	BARCEV TRG BB;	ZAGREB;	10000;	"Barcev trg;	 10000;	 Zagreb;	 Croatia";	4023
