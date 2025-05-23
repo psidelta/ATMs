@@ -24,7 +24,7 @@ namespace FinaATM
         {
             var inputFileDescription = new CsvFileDescription
             {
-                SeparatorChar = ',',
+                SeparatorChar = ';',
                 FirstLineHasColumnNames = true,
                 FileCultureName = "hr-HR",
 
